@@ -56,39 +56,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
