@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Aseel from Palestine.<br>- 🎓 4th Year Software Engineering Student.<br><br>- 📚 I'm currently learning Android Development (Kotlin).<br><br>- 🚀 Practicing Problem Solving & DSA.  <br><br>-💡 Always curious about anything tech-related and love trying out new things.</p>
+<p align="left">I'm Aseel from Palestine.<br>- 🎓 4th Year Software Engineering Student.<br><br>- 📚 I'm currently learning Android Development (Kotlin & Jetpack Compose).<br><br>- 🚀 Practicing Problem Solving & DSA.  <br><br>-💡 Always curious about anything tech-related and love trying out new things.</p>
 
 ###
 
